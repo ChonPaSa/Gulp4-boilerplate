@@ -1,0 +1,12 @@
+@import './base/variables';
+@import './base/buttons';
+@import './base/grid';
+
+body{
+    background-color: $bg;
+    color: $red;
+}
+
+a{
+    transition: all 320ms ease;
+}
